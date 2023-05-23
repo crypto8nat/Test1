@@ -12,10 +12,11 @@ public class Test {
 
         System.out.println(bigTiger.weight);
         System.out.println(smallTiger.weight);
-        System.out.println(Tiger.legsCount);
 
         bigTiger.sleep();
         smallTiger.sleep();
+        System.out.println(Tiger.legsCount);
+        System.out.println(10 % 3);
 
 
     }

@@ -6,7 +6,8 @@ public class Tiger {
 
 
     public void sleep(){
-        System.out.println("tiger sleep");
+        System.out.println("Тигр спит.");
+        System.out.println(weight);
     }
 
 }

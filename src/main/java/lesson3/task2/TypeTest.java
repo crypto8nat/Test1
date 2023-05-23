@@ -20,7 +20,7 @@ public class TypeTest {
 
         byte b1 = (byte) s1;
 
-        System.out.println("Byte: " +b1);
+        System.out.println("Значение Byte: " +b1);
 
 
 
